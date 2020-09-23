@@ -61,11 +61,17 @@ def add_characters
    #   - The second hash should have the :name key set to "Apothecary"
    # Code your solution here:
 
+<<<<<<< HEAD
    epic_tragedy[:additional_characters] = [
      { name: "Prince Escalus" },
      { name: "Apothecary"}
 
    ]
+=======
+   epic_tragedy[:additional_characters = []
+
+ ]
+>>>>>>> 2492be65e8ea9921f67b27e994f5aa76fb47cf1d
 
 
 
